@@ -23,7 +23,7 @@
     "parcel-bundler": "^1.12.4",
     "vue": "^2.6.10",
     "vue-hot-reload-api": "^2.3.4",
-    "ws": "^7.1.2"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@types/koa": "^2.0.50",
